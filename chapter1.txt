@@ -1,1 +1,1 @@
-This is the first git project I have in Mac
+This is the first git project I have in Mac. MODIFIED
